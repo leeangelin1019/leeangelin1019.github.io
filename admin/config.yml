@@ -1,0 +1,20 @@
+backend:
+  name: github
+  repo: leeangelin1019/leeangelin1019.github.io
+  branch: main
+
+media_folder: "assets/images"
+public_folder: "/assets/images"
+
+collections:
+  - name: "posts"
+    label: "文章"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "標題", name: "title", widget: "string" }
+      - { label: "發布日期", name: "date", widget: "datetime" }
+      - { label: "分類", name: "categories", widget: "list", default: ["旅遊"] }
+      - { label: "標籤", name: "tags", widget: "list" }
+      - { label: "內文", name: "body", widget: "markdown" }
