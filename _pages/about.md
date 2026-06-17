@@ -1,8 +1,16 @@
 ---
 permalink: /about/
-title: "About"
+title: "關於我"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+我是卡拉女巫，一個因小說《項塔蘭》而起的名字，開啟了我對世界的嚮往。
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+11年前成為背包客，堅持用少少的錢獨自闖蕩世界。目前走過柬埔寨、泰國、馬來西亞、新加坡、印尼、菲律賓、中國、越南，還有我最喜歡的印度。
+
+這個部落格記錄我每一段旅程的故事、攻略和心情，希望能給想出發的你一點勇氣。
+
+## 找到我
+
+- 📝 [UDN 旅遊專欄](https://travel.udn.com/author/articles/1013/9799)
+- 🎬 [YouTube](https://www.youtube.com/@KarlaWitch1990)
+- ✍️ [舊部落格 Blogger](https://angelinalee1019.blogspot.com)
